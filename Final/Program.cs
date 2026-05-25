@@ -17,9 +17,9 @@ class Program
             // Create a new student object
             var student = new Student
             {
-                FirstName = "Kawthar",
-                LastName = "AlHallak",
-                DateOfBirth = new DateTime(1989,1, 23)
+                FirstName = "Raneen",
+                LastName = "Almandalawi",
+                DateOfBirth = new DateTime(1999,1, 23)
             };
 
             // Add the student to the Students DbSet
